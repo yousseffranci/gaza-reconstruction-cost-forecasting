@@ -11,7 +11,7 @@ _A Post-Conflict Data-Driven Framework_
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/King%27s_College_London_seal.svg/1024px-King%27s_College_London_seal.svg.png" alt="King's College London" width="140"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/King%27s_College_London_logo.svg/2560px-King%27s_College_London_logo.svg.png" alt="King's College London" width="140"/>
 </p>
 
 > 🔎 **This repository is in addendum to**  
@@ -119,7 +119,7 @@ All conclusions are those of the author and do not necessarily reflect the views
 
 ## 📬 Contact
 
-**Youssef A. Francia**  
+**Youssef A. Franci**  
 ✉️ [youssef.a.franci@kcl.ac.uk](mailto:youssef.a.franci@kcl.ac.uk)  
 🎓 MSc Candidate, Department of Engineering, King’s College London
 
