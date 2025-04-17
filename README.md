@@ -16,8 +16,8 @@ _A Post-Conflict Data-Driven Framework_
 
 > 🔎 **This repository is in addendum to**  
 > 📝 **_Forecasting Construction Costs and Carbon Emissions by Building Typology in the Gaza Strip – A Post-Conflict Data-Driven Framework_**  
-> 📚 This project is **ancillary to a Master’s Thesis** currently in development at **King’s College London**  
-> 🧑‍🎓 MSc Individual Research | Department of Engineering | Supervised by **Dr. Mohit Arora**
+> 📚 This project is **ancillary to a Master’s Thesis** currently in development at **King’s College London**  by **Youssef Alan Franci**
+> 🧑‍🎓 MSc Individual Project | Department of Engineering | Supervised by **Dr. Mohit Arora**
 
 ---
 
